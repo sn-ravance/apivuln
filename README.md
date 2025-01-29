@@ -105,3 +105,6 @@ python3 apivuln.py \
 This project is licensed under the MIT License.
 
 Use at your own risk, and always comply with applicable laws and ethical guidelines.
+
+primaryCognitoID: 1c375d6d-6488-44af-b64f-cd0029df6bda
+
